@@ -1,12 +1,14 @@
 layout_spectrum: 1
 color:
   saturation: 0
-  brandStrength: 0.9480287
+  brandStrength: 0.8189964
   lightness: 0
   brandColors:
-    - '#415350'
-    - '#A3311E'
-    - '#5C0200'
-    - '#542727'
+    - '#8CC5B0'
+    - '#FF7665'
+    - '#9C2817'
+    - '#FFFFFF'
+    - '#159099'
   rhythmicContrast: 0.6505376
 typography_spectrum: 0.7849463
+name: Adam Claxon
